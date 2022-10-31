@@ -1,0 +1,29 @@
+a {
+  text-decoration: none;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  border: none;
+  box-sizing: border-box;
+}
+
+html,
+body,
+buton,
+select,
+textarea,
+input {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  background-color: #121214;
+  color: #a8a8b3;
+}
+
+buton {
+  cursor: pointer;
+  line-height: 0;
+}
